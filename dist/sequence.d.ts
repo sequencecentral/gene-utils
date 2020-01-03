@@ -1,0 +1,9 @@
+export declare const sanitize: (str: string) => string;
+export declare const reverse: (str: string) => string;
+export declare const complement: (str: string) => string;
+export declare const revcomp: (str: string) => string;
+export declare const GCContent: (str: string) => number;
+export declare const melt: (s: string, mismatches?: number) => number;
+export declare const optimize: (s: string, target: number) => string;
+export declare const translate: (str: string) => string;
+export declare const revTranslate: (str: string, code: string) => string;
