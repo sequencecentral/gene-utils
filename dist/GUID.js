@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.parseID = exports.GUID = void 0;
 /**
 *   Returns Globally-unique identifier
 *   @Returns GUID

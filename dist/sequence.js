@@ -1,6 +1,7 @@
 "use strict";
 var _this = this;
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.revTranslate = exports.translate = exports.optimize = exports.melt = exports.GCContent = exports.revcomp = exports.complement = exports.reverse = exports.sanitize = void 0;
 var comp = {
     "A": "T", "C": "G", "G": "C",
     "T": "A", "U": "T", "N": "N",

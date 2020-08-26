@@ -1,6 +1,6 @@
 {
   "name": "gene-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tools for Genetics",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,16 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/sequencecentral/gene-utils.git"
   },
-  "author": "Steve Ayers <Steve@sequencecentral.com> (https://www.sequencecentral.com)",
+  "author": "Steve Ayers <steve@sequencecentral.com> (https://www.sequencecentral.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sequencecentral/gene-utils/issues"
   },
   "homepage": "https://github.com/sequencecentral/gene-utils#readme",
   "dependencies": {
-    "typescript": "^3.7.4",
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
-    "ts-node": "^8.3.0"
+    "ts-node": "^8.3.0",
+    "typescript": "^3.9.7"
   }
 }
